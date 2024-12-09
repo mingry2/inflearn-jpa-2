@@ -1,15 +1,11 @@
 package jpabook.jpashop.domain;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.JoinTable;
-import jakarta.persistence.ManyToMany;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToMany;
+import jakarta.persistence.*;
+
 import java.util.ArrayList;
 import java.util.List;
+
+import static jakarta.persistence.FetchType.*;
 
 @Entity
 public class Category extends BaseEntity {
@@ -20,7 +16,7 @@ public class Category extends BaseEntity {
 	private String name;
 
 	// 셀프 매칭 - 상위, 하위 카테고리
-	@ManyToOne
+	@ManyToOne(fetch = LAZY)
 	@JoinColumn(name = "PARENT_ID")
 	private Category parent;
 
