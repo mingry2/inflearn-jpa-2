@@ -18,3 +18,5 @@
 ✅ 개인 공부를 위해 인프런 강의의 참고자료를 토대로 이해한 것을 추가로 정리한 노션 페이지입니다.
 ### [섹션6 - 다양한 연관 관계 매핑](https://www.notion.so/6-eb06f5efe16d4403af9be9c138529258?pvs=4)
 ### [섹션7 - 고급 매핑](https://www.notion.so/7-1cabb79fa7ba47e9805a4fc8a83fc36c?pvs=4)
+### [섹션8 - 프록시와 연관관계 정리](https://ivory-ocelot-8c6.notion.site/8-8a2e0b3f9cf34ae0976c4938551e163a?pvs=4)
+### [섹션9 - 값 타임](https://ivory-ocelot-8c6.notion.site/9-028b9681bebe47bbb7d7d991f59ea874?pvs=4)
