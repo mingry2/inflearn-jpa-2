@@ -20,3 +20,5 @@
 ### [섹션7 - 고급 매핑](https://www.notion.so/7-1cabb79fa7ba47e9805a4fc8a83fc36c?pvs=4)
 ### [섹션8 - 프록시와 연관관계 정리](https://ivory-ocelot-8c6.notion.site/8-8a2e0b3f9cf34ae0976c4938551e163a?pvs=4)
 ### [섹션9 - 값 타임](https://ivory-ocelot-8c6.notion.site/9-028b9681bebe47bbb7d7d991f59ea874?pvs=4)
+### [섹션10 - 객체지향 쿼리 언어1 - 기본 문법](https://ivory-ocelot-8c6.notion.site/10-1-f91dfa57714549d38896f4167a98700b?pvs=4)
+### [섹션11 - 객체지향 쿼리 언어2 - 중급 문법](https://ivory-ocelot-8c6.notion.site/11-2-c00824099c814bbf8385f373ed58f290?pvs=4)
